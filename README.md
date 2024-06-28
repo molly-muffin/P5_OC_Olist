@@ -1,4 +1,4 @@
-![Alt text](https://d3hw41hpah8tvx.cloudfront.net/images/logo_2_a73e338e6b.svg)
+![Alt text](https://d3hw41hpah8tvx.cloudfront.net/images/ilustra_ecossitema_olist_desktop_ff64362482.svg)
 
 # Segmentez des clients d'un site e-commerce
 
